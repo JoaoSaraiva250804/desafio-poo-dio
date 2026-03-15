@@ -7,6 +7,15 @@ public class Mentoria {
     private String descricao;
     private LocalDate data;
 
+    @Override
+    public String toString() {
+        return "Mentoria{" +
+                "titulo='" + titulo + '\'' +
+                ", descricao='" + descricao + '\'' +
+                ", data=" + data +
+                '}';
+    }
+
     public Mentoria() {
     }
 
