@@ -1,4 +1,4 @@
-Exercício de Programação Orientada a Objetos da dio
+Exercício de Programação Orientada a Objetos da dio.
 
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
